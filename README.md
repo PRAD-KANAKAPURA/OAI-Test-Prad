@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenAirInterface Telco DevOps Assignment
 
 This repository contains the steps and code to complete the OpenAirInterface (OAI) Telco DevOps assignment. The assignment includes deploying **Gitea** and **Jenkins** in Docker, setting up a Jenkins pipeline to automate the build and test process for the **OAI-NRF** network function, and reporting the results in Gitea.
@@ -77,3 +78,7 @@ If the build pipeline is successful, the next step is to test the **OAI-NRF Dock
    ```bash
    git clone https://github.com/yourusername/oai-telco-devops-assignment.git
    cd oai-telco-devops-assignment
+=======
+# OAI-Test-Prad
+test
+>>>>>>> ac565384d431372d1d8b102e63cb6abc751a4ed3
